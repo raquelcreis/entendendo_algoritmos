@@ -14,17 +14,19 @@
 
 ## Pilha de chamada (call stack)
 
+```
 def sauda(nome):
     print(...)
-    sauda2(nome)  *(push & pop)*
+    sauda2(nome)  #push & pop
     print(...)
-    tchau() *(push & pop)*
+    tchau() #push & pop
 
-def sauda2(nome):
+def sauda2(nome): # quando for chamada, ficará na pilha de chamada
     print(...)
 
-def tchau():
+def tchau(): # quando for chamada, ficará na pilha de chamada
     print(...)
+ ```
 
 - Quando você chama uma função a partir de outra, a chamada de função fica pausada em um estado parcialmente completo.
 - A pilha de chamada é usada para guardar as variáveis de múltiplas funções.
