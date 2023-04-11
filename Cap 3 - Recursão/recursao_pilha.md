@@ -17,7 +17,7 @@
 ```
 def sauda(nome):
     print(...)
-    sauda2(nome)  #push & pop
+    sauda2(nome) #push & pop
     print(...)
     tchau() #push & pop
 
