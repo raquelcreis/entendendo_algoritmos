@@ -9,3 +9,4 @@ Resumo de Algoritmos inspirado no livro 'Grokking Algorithms'
 - [Cap 1: Introdução a Algoritmos](https://github.com/raquelcreis/entendendo_algoritmos/tree/main/Cap%201%20-%20Pesquisa%20Bin%C3%A1ria)
 - [Cap 2: Ordenação por Seleção](https://github.com/raquelcreis/entendendo_algoritmos/tree/main/Cap%202%20-%20Ordena%C3%A7%C3%A3o%20por%20Sele%C3%A7%C3%A3o)
 - [Cap 3: Recursão](https://github.com/raquelcreis/entendendo_algoritmos/tree/main/Cap%203%20-%20Recurs%C3%A3o)
+- [Cap 4: Quicksort](https://github.com/raquelcreis/entendendo_algoritmos/tree/main/Cap%204%20-%20Quicksort)
