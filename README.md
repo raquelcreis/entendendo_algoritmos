@@ -13,3 +13,4 @@ Resumo de Algoritmos inspirado no livro 'Grokking Algorithms'
 - [Cap 5: Tabelas Hash](https://github.com/raquelcreis/entendendo_algoritmos/tree/main/Cap%205%20-%20Tabelas%20hash)
 - [Cap 6: Pesquisa em Largura](https://github.com/raquelcreis/entendendo_algoritmos/tree/main/Cap%206%20-%20Pesquisa%20em%20Largura)
 - [Cap 7: Algoritmo de Dijkstra](https://github.com/raquelcreis/entendendo_algoritmos/tree/main/Cap%207%20-%20Algoritmo%20de%20Dijkstra)
+- [Cap 8: Algoritmos Gulosos](https://github.com/raquelcreis/entendendo_algoritmos/tree/main/Cap%208%20-%20Algoritmos%20gulosos)
